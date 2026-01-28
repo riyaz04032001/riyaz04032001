@@ -1,11 +1,25 @@
-👋 Well Hello There! ✨
-
-I'm **Riyaz Dudekula**, a **Data Engineer** with **4+ years of experience** building scalable, production-grade data pipelines across **AWS, Azure, and multi-cloud environments**.
-
-I specialize in designing **end-to-end ETL/ELT pipelines**, **batch and real-time data processing**, and **cloud data platforms** using Spark, Airflow, Kafka, and modern data warehouses. I enjoy working at the intersection of **data engineering, analytics, and real-world constraints**, with a strong focus on **data reliability, performance, and maintainability**.
-
-📍 United States
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/driyaz0401)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:driyaz0401@gmail.com)
-
+<table>
+  <tr>
+    <td width="200">
+      <img src="profile.jpg" width="180" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h2>👋 Well Hello There! ✨</h2>
+      <p>
+        I'm <b>Riyaz Dudekula</b>, a <b>Data Engineer</b> with <b>4+ years of experience</b>
+        building scalable, production-grade data pipelines across
+        <b>AWS, Azure, and multi-cloud environments</b>.
+      </p>
+      <p>
+        I specialize in <b>end-to-end ETL/ELT pipelines</b>, <b>batch and real-time processing</b>,
+        and cloud data platforms using Spark, Airflow, and Kafka — with a strong focus on
+        <b>data reliability, performance, and maintainability</b>.
+      </p>
+      <p>📍 United States</p>
+      <p>
+        <a href="https://linkedin.com/in/driyaz0401">LinkedIn</a> |
+        <a href="mailto:driyaz0401@gmail.com">Email</a>
+      </p>
+    </td>
+  </tr>
+</table>
