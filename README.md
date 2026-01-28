@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src="profile.jpg" width="180" style="border-radius: 50%;" />
+      <img src="IMG_20250611_145113_378.png" width="180" style="border-radius: 50%;" />
     </td>
     <td>
       <h2>👋 Well Hello There! ✨</h2>
