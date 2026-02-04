@@ -35,7 +35,7 @@
 - Cloud: AWS, Azure, GCP
 - DevOps: Jenkins, Docker, Kubernetes, Terraform
 - Visualization: Power BI, Tableau
-- 
+  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🎓 Certifications
 
