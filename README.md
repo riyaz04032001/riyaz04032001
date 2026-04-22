@@ -6,7 +6,7 @@
     <td>
       <h2>👋 Well Hello There! ✨</h2>
       <p>
-        I'm <b>Riyaz Dudekula</b>, a <b>Data Engineer</b> with <b>4+ years of experience</b>
+        I'm <b>Riyaz Dudekula</b>, a <b>Data Engineer</b> with <b>5+ years of experience</b>
         building scalable, production-grade data pipelines across
         <b>AWS, Azure, and multi-cloud environments</b>.
       </p>
@@ -17,8 +17,8 @@
       </p>
       <p>📍 United States</p>
       <p>
-        <a href="https://linkedin.com/in/driyaz0401">LinkedIn</a> |
-        <a href="mailto:driyaz0401@gmail.com">Email</a>
+        <a href="https://linkedin.com/in/riyaz04">LinkedIn</a> |
+        <a href="mailto:riyazdudekula04@gmail.com">Email</a>
       </p>
     </td>
   </tr>
@@ -39,10 +39,11 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🎓 Certifications
 
-- Microsoft – Azure AI Fundamentals
-- Coursera – Building Scalable Applications with AWS
-- Udemy – Azure Fundamentals
-- Udemy – Azure Data Factory for Data Engineer
+•	AWS Certified Data Engineer -Associate
+•	Databricks Data Engineer (Associate)
+•	Confluent Kafka Certification
+•	Azure Data Engineer Associate (DP-203)
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ## 🚀 What I’m Focused On Now
