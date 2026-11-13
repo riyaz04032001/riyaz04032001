@@ -6,7 +6,7 @@
     <td>
       <h2>👋 Well Hello There! ✨</h2>
       <p>
-        I'm <b>Riyaz Dudekula</b>, a <b>Data Engineer</b> with <b>5+ years of experience</b>
+        I'm <b>Riyaz Dudekula</b>, a <b>Data Engineer</b> with <b>6+ years of experience</b>
         building scalable, production-grade data pipelines across
         <b>AWS, Azure, and multi-cloud environments</b>.
       </p>
